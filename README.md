@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donald Vu
-- 👀 I’m interested in Software development and Product Management
-- 🌱 I’m currently a student at Cal Poly Pomona and this github hosts my portfolio and projects
+- 👀 I’m currently looking for career opportunities in software development and tech.
+- 🌱 I’m a New Grad of Cal Poly Pomona with a B.S in Computer Science
 - 📫 How to reach me 
 - Email: donjvu@gmail.com
 -
